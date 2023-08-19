@@ -1,7 +1,7 @@
 
 Hey there 👋
 
-I’m Pritam, a full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m Pritam, a full-stack engineer, creative coder and self-proclaimed designer who specializes in mainframe development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/pritamlad_)
